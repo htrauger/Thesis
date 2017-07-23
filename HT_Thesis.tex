@@ -1,0 +1,222 @@
+\documentclass[11pt]{article}   	
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}                		
+\geometry{letterpaper, margin=1in}                   		
+\usepackage{graphicx}			
+\usepackage{amssymb}
+\usepackage{setspace}
+\usepackage{sectsty}
+\clubpenalty = 10000
+\widowpenalty = 10000
+\usepackage[labelsep=period]{caption}
+\captionsetup[table]{name=TABLE}
+\usepackage[explicit]{titlesec}
+\titleformat{\section}
+  {\scshape\bfseries\centering}{\thesection}{1em}{\MakeUppercase{#1}}
+\allsectionsfont{\normalsize}{\centering}
+\renewcommand{\thetable}{\Roman{table}}
+\usepackage{etoolbox}
+\usepackage{relsize}
+\usepackage{mathrsfs}  
+
+\RequirePackage{lineno}
+\linenumbers
+
+\AtBeginEnvironment{tabular}{\doublespacing}
+
+\usepackage{morefloats}
+\usepackage{hyperref}
+\usepackage{caption}
+\usepackage{slashed}
+
+\hypersetup{
+   colorlinks=true,
+   linktoc=page,
+   linkcolor=blue,
+   citecolor=blue,
+}
+
+
+
+\begin{document}
+
+
+
+\begin{center}
+
+\textbf{Jet-Track Correlation Studies of the Quark Gluon Plasma}
+
+
+
+\vspace{2.5 in}
+BY
+
+HALLIE CAUSEY TRAUGER
+
+M.Ed. University of Illinois at Chicago, 2015
+
+M.S. University of Illinois at Chicago, 2014
+
+B.A. University of Chicago, 2010
+
+\vspace{2.5 in}
+THESIS
+
+Submitted in partial fulfilment of the requirements 
+
+for the degree of Doctor of Philosophy in Physics 
+
+in the Graduate College of the University of Illinois at Chicago, 2017
+
+\vspace{0.2 in}
+Chicago, IL
+
+\end{center}
+
+\vspace{0.2 in}
+
+DEFENSE COMMITTEE:
+
+\setlength{\parindent}{0.5in} Olga Evdokimov, Chair and Advisor
+
+David Hofman
+
+Zhenyu Ye
+
+Misha Stephanov
+
+Julia Velkovska, Vanderbilt University
+
+
+\pagenumbering{gobble} 
+
+
+
+\clearpage{}
+
+\pagenumbering{roman}
+\setcounter{page}{2}
+
+\section*{Acknowledgements}
+
+Thanks go here...
+
+\vspace{1in}
+
+\begin{flushright}
+
+HCT
+\end{flushright}
+\clearpage{}
+
+\section*{Contribution of Authors}
+
+- Note previous publications (HIN-14-016, HIN-15-011, HIN-16-020)
+
+\noindent - Describe CMS authorship policy
+
+\noindent - Outline general CMS inputs (reconstruction etc.) that contributed to work
+
+\noindent - Outline aspects that are my own work (and others' contributions to these as well, esp. Run 2)
+
+\clearpage
+
+\setcounter{tocdepth}{2}
+\tableofcontents
+\clearpage{}
+
+\listoftables
+\clearpage{}
+
+\listoffigures
+\clearpage{}
+
+\section*{List of Abreviations}
+\input{abbreviations}
+\clearpage{}
+
+\section*{Summary}
+\input{Summary}
+\clearpage{}
+
+
+%MAIN MATTER
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\doublespacing
+
+
+\section{Introduction}
+\label{sec:Introduction}
+\input{Introduction}
+\clearpage
+
+\section{The quark gluon plasma}
+\label{sec:Theory}
+\input{Theory}
+\clearpage
+
+\section{The Large Hadron Collider and the CMS detector}
+\label{sec:Detector}
+\input{Detector}
+\clearpage
+
+\section{Track reconstruction and correction}
+\label{sec:Tracks}
+\input{Tracks}
+\clearpage
+
+\section{Jet reconstruction and correction}
+\label{sec:Jets}
+\input{Jets}
+\clearpage
+
+\section{Data and Monte Carlo samples}
+\label{sec:Samples}
+\input{Samples}
+\clearpage
+
+
+\section{Jet-track correlation measurements}
+\label{sec:JetTrack}
+\input{JetTrack}
+\clearpage
+
+\section{Discussion of results}
+\label{sec:Results}
+\input{Results}
+\clearpage
+
+\section{Conclusion}
+\label{sec:Conclusion}
+\input{Conclusion}
+\clearpage
+
+\bibliographystyle{unsrt}
+\addcontentsline{toc}{section}{References}
+\bibliography{HT_Thesis}
+
+\clearpage
+
+
+\appendix
+
+\appendix
+\section*{Appendices}
+\addcontentsline{toc}{section}{Appendices}
+\renewcommand{\thesubsection}{\Alph{subsection}}
+\input{Appendices}
+
+\clearpage
+
+\section*{Vita}
+\addcontentsline{toc}{section}{Vita}
+\input{Vita}
+
+
+
+\end{document}  
+
+
+

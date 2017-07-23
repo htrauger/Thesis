@@ -1,0 +1,77 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}The quark gluon plasma}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Predictions and early evidence for the quark gluon plasma}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Properties of the quark gluon plasma}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Characterizing collision centrality}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Collective behavior in the QGP}{4}{subsection.2.4}
+\contentsline {section}{\numberline {3}Jets as probes of the quark gluon plasma}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Measuring suppression of high-$p_{\rm T}$ particles and jets}{6}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Jet fragmentation function and jet shape measurements}{10}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Dijet asymmetry and momentum balance studies}{12}{subsection.3.3}
+\contentsline {section}{\numberline {4}Models of jet energy loss in the quark gluon plasma}{16}{section.4}
+\contentsline {subsection}{\numberline {4.1}Survey of theoretical models of jet quenching mechanisms}{16}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Quenching model comparisons to high-$p_{\rm T}$ particle and jet observables}{18}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Quenching model comparisons: $R_{AA}$}{18}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Quenching model comparisons: jet fragmentation functions}{18}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Quenching model comparisons: jet shapes}{18}{subsubsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.4}Quenching model comparisons: dijet asymmetry}{18}{subsubsection.4.2.4}
+\contentsline {subsection}{\numberline {4.3}Theoretical motivations for detailed jet-track correlation studies}{18}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Extenshion of jet shape measurements to large angles}{18}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Detailed characterization of jet peak in separate dimensions $\Delta \eta $ and $\Delta \phi $}{18}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}Detailed characterization of leading and subleading jet peaks in dijet events}{18}{subsubsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.4}Decomposition of contributions to momentum balance studies in dijet events}{18}{subsubsection.4.3.4}
+\contentsline {section}{\numberline {5}The Large Hadron Collider and the CMS detector}{19}{section.5}
+\contentsline {subsection}{\numberline {5.1}The Large Hadron Collider}{19}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}The CMS detector}{20}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Trackers in the CMS detector}{20}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Calorimeters in the CMS detector}{22}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}The CMS trigger system}{23}{subsection.5.5}
+\contentsline {section}{\numberline {6}Track reconstruction and correction}{25}{section.6}
+\contentsline {subsection}{\numberline {6.1}Track reconstruction in pp collisions}{25}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Track reconstruction in PbPb collisions}{26}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}High purity tracks}{27}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Tracking efficiency and fake rate evaluation and correction}{28}{subsection.6.4}
+\contentsline {section}{\numberline {7}Jet reconstruction and correction}{30}{section.7}
+\contentsline {subsection}{\numberline {7.1}Jet reconstruction with the anti-$k_{t}$ algorithm}{30}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Underlying event subtraction in PbPb data}{32}{subsection.7.2}
+\contentsline {subsubsection}{\numberline {7.2.1}Noise/pedestal subtraction}{32}{subsubsection.7.2.1}
+\contentsline {subsubsection}{\numberline {7.2.2}HF/Voronoi subtraction}{32}{subsubsection.7.2.2}
+\contentsline {subsection}{\numberline {7.3}Jet energy corrections}{33}{subsection.7.3}
+\contentsline {section}{\numberline {8}Data and Monte Carlo samples}{35}{section.8}
+\contentsline {subsection}{\numberline {8.1}Data samples and event selection}{35}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Collision centrality determination and classes}{36}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Monte Carlo simulation}{37}{subsection.8.3}
+\contentsline {subsubsection}{\numberline {8.3.1}Monte Carlo centrality and vertex-z reweighting}{37}{subsubsection.8.3.1}
+\contentsline {subsubsection}{\numberline {8.3.2}Monte Carlo samples at 2.76 TeV}{38}{subsubsection.8.3.2}
+\contentsline {subsubsection}{\numberline {8.3.3}Summary of Monte Carlo samples at 5.02 TeV}{40}{subsubsection.8.3.3}
+\contentsline {subsection}{\numberline {8.4}Jet selection and dijet asymmetry classes}{41}{subsection.8.4}
+\contentsline {subsection}{\numberline {8.5}Track selection and classes}{41}{subsection.8.5}
+\contentsline {subsection}{\numberline {8.6}Summary of analysis bins}{43}{subsection.8.6}
+\contentsline {section}{\numberline {9}Jet-track correlation measurements}{44}{section.9}
+\contentsline {subsection}{\numberline {9.1}Analysis procedure}{44}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Jet-track correlation pair-acceptance correction}{45}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}Separation of correlations into long range and short-range components}{45}{subsection.9.3}
+\contentsline {subsection}{\numberline {9.4}Residual Jet Fragmentation Function correction}{49}{subsection.9.4}
+\contentsline {subsection}{\numberline {9.5}Background fluctuation bias correction}{53}{subsection.9.5}
+\contentsline {subsection}{\numberline {9.6}Evaluation of systematic uncertainties}{60}{subsection.9.6}
+\contentsline {subsubsection}{\numberline {9.6.1}Systematic uncertainties related to jet reconstruction}{60}{subsubsection.9.6.1}
+\contentsline {subsubsection}{\numberline {9.6.2}Systematic uncertainties related to tracking and tracking efficiency corrections}{60}{subsubsection.9.6.2}
+\contentsline {subsubsection}{\numberline {9.6.3}Systematic uncertainty associated with pair acceptance correction and event decomposition}{61}{subsubsection.9.6.3}
+\contentsline {subsubsection}{\numberline {9.6.4}Summary of systematic uncertainties}{61}{subsubsection.9.6.4}
+\contentsline {section}{\numberline {10}Discussion of results}{64}{section.10}
+\contentsline {subsection}{\numberline {10.1}Inclusive jet particle density correlation results}{64}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}Dijet correlation results}{75}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.3}Jet shapes}{84}{subsection.10.3}
+\contentsline {subsection}{\numberline {10.4}Decomposition of hemisphere momentum balance in dijet events}{88}{subsection.10.4}
+\contentsline {subsection}{\numberline {10.5}Theory implications of these results}{100}{subsection.10.5}
+\contentsline {section}{\numberline {11}Conclusion}{101}{section.11}
+\contentsline {section}{References}{102}{section.11}
+\contentsline {section}{Appendices}{106}{section.11}
+\contentsline {subsection}{\numberline {A}Jet kinematics}{106}{subsection.Alph0.1}
+\contentsline {subsubsection}{\numberline {A.1}Jet kinematics at 2.76 TeV}{106}{subsubsection.Alph0.1.1}
+\contentsline {subsubsection}{\numberline {A.2}Inclusive jet kinematics at 5.02 TeV}{110}{subsubsection.Alph0.1.2}
+\contentsline {subsubsection}{\numberline {A.3}Dijet kinematics in asymmetry classes at 2.76 TeV}{111}{subsubsection.Alph0.1.3}
+\contentsline {subsection}{\numberline {B}Background fitting details}{120}{subsection.Alph0.2}
+\contentsline {subsection}{\numberline {C}Pair acceptance and event decomposition systematic uncertainties}{124}{subsection.Alph0.3}
+\contentsline {subsection}{\numberline {D}Correlation widths and related uncertainty}{126}{subsection.Alph0.4}
+\contentsline {section}{Vita}{130}{figure.caption.100}
