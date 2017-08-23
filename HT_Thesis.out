@@ -1,57 +1,59 @@
 \BOOKMARK [1][-]{section.1}{Introduction}{}% 1
 \BOOKMARK [1][-]{section.2}{The quark gluon plasma}{}% 2
 \BOOKMARK [2][-]{subsection.2.1}{Predictions and early evidence for the quark gluon plasma}{section.2}% 3
-\BOOKMARK [2][-]{subsection.2.2}{Properties of the quark gluon plasma}{section.2}% 4
-\BOOKMARK [2][-]{subsection.2.3}{Characterizing collision centrality}{section.2}% 5
-\BOOKMARK [2][-]{subsection.2.4}{Collective behavior in the QGP}{section.2}% 6
-\BOOKMARK [1][-]{section.3}{Jets as probes of the quark gluon plasma}{}% 7
-\BOOKMARK [2][-]{subsection.3.1}{Measuring suppression of high-pT particles and jets}{section.3}% 8
-\BOOKMARK [2][-]{subsection.3.2}{Jet fragmentation function and jet shape measurements}{section.3}% 9
-\BOOKMARK [2][-]{subsection.3.3}{Dijet asymmetry and momentum balance studies}{section.3}% 10
-\BOOKMARK [1][-]{section.4}{Models of jet energy loss in the quark gluon plasma}{}% 11
-\BOOKMARK [2][-]{subsection.4.1}{Survey of theoretical models of jet quenching mechanisms}{section.4}% 12
-\BOOKMARK [2][-]{subsection.4.2}{Quenching model comparisons to high-pT particle and jet observables}{section.4}% 13
-\BOOKMARK [2][-]{subsection.4.3}{Theoretical motivations for detailed jet-track correlation studies}{section.4}% 14
-\BOOKMARK [1][-]{section.5}{The Large Hadron Collider and the CMS detector}{}% 15
-\BOOKMARK [2][-]{subsection.5.1}{The Large Hadron Collider}{section.5}% 16
-\BOOKMARK [2][-]{subsection.5.2}{The CMS detector}{section.5}% 17
-\BOOKMARK [2][-]{subsection.5.3}{Trackers in the CMS detector}{section.5}% 18
-\BOOKMARK [2][-]{subsection.5.4}{Calorimeters in the CMS detector}{section.5}% 19
-\BOOKMARK [2][-]{subsection.5.5}{The CMS trigger system}{section.5}% 20
-\BOOKMARK [1][-]{section.6}{Track reconstruction and correction}{}% 21
-\BOOKMARK [2][-]{subsection.6.1}{Track reconstruction in pp collisions}{section.6}% 22
-\BOOKMARK [2][-]{subsection.6.2}{Track reconstruction in PbPb collisions}{section.6}% 23
-\BOOKMARK [2][-]{subsection.6.3}{High purity tracks}{section.6}% 24
-\BOOKMARK [2][-]{subsection.6.4}{Tracking efficiency and fake rate evaluation and correction}{section.6}% 25
-\BOOKMARK [1][-]{section.7}{Jet reconstruction and correction}{}% 26
-\BOOKMARK [2][-]{subsection.7.1}{Jet reconstruction with the anti-kt algorithm}{section.7}% 27
-\BOOKMARK [2][-]{subsection.7.2}{Underlying event subtraction in PbPb data}{section.7}% 28
-\BOOKMARK [2][-]{subsection.7.3}{Jet energy corrections}{section.7}% 29
-\BOOKMARK [1][-]{section.8}{Data and Monte Carlo samples}{}% 30
-\BOOKMARK [2][-]{subsection.8.1}{Data samples and event selection}{section.8}% 31
-\BOOKMARK [2][-]{subsection.8.2}{Collision centrality determination and classes}{section.8}% 32
-\BOOKMARK [2][-]{subsection.8.3}{Monte Carlo simulation}{section.8}% 33
-\BOOKMARK [2][-]{subsection.8.4}{Jet selection and dijet asymmetry classes}{section.8}% 34
-\BOOKMARK [2][-]{subsection.8.5}{Track selection and classes}{section.8}% 35
-\BOOKMARK [2][-]{subsection.8.6}{Summary of analysis bins}{section.8}% 36
-\BOOKMARK [1][-]{section.9}{Jet-track correlation measurements}{}% 37
-\BOOKMARK [2][-]{subsection.9.1}{Analysis procedure}{section.9}% 38
-\BOOKMARK [2][-]{subsection.9.2}{Jet-track correlation pair-acceptance correction}{section.9}% 39
-\BOOKMARK [2][-]{subsection.9.3}{Separation of correlations into long range and short-range components}{section.9}% 40
-\BOOKMARK [2][-]{subsection.9.4}{Residual Jet Fragmentation Function correction}{section.9}% 41
-\BOOKMARK [2][-]{subsection.9.5}{Background fluctuation bias correction}{section.9}% 42
-\BOOKMARK [2][-]{subsection.9.6}{Evaluation of systematic uncertainties}{section.9}% 43
-\BOOKMARK [1][-]{section.10}{Discussion of results}{}% 44
-\BOOKMARK [2][-]{subsection.10.1}{Inclusive jet particle density correlation results}{section.10}% 45
-\BOOKMARK [2][-]{subsection.10.2}{Dijet correlation results}{section.10}% 46
-\BOOKMARK [2][-]{subsection.10.3}{Jet shapes}{section.10}% 47
-\BOOKMARK [2][-]{subsection.10.4}{Decomposition of hemisphere momentum balance in dijet events}{section.10}% 48
-\BOOKMARK [2][-]{subsection.10.5}{Theory implications of these results}{section.10}% 49
-\BOOKMARK [1][-]{section.11}{Conclusion}{}% 50
-\BOOKMARK [1][-]{section.11}{References}{}% 51
-\BOOKMARK [1][-]{section.11}{Appendices}{}% 52
-\BOOKMARK [2][-]{subsection.Alph0.1}{Jet kinematics}{section.11}% 53
-\BOOKMARK [2][-]{subsection.Alph0.2}{Background fitting details}{section.11}% 54
-\BOOKMARK [2][-]{subsection.Alph0.3}{Pair acceptance and event decomposition systematic uncertainties}{section.11}% 55
-\BOOKMARK [2][-]{subsection.Alph0.4}{Correlation widths and related uncertainty}{section.11}% 56
-\BOOKMARK [1][-]{figure.caption.100}{Vita}{}% 57
+\BOOKMARK [2][-]{subsection.2.2}{Thermodynamics of the quark gluon plasma}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Time-evolution of heavy ion collisions}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Characterizing collision geometry and event centrality}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Kinematic variables and coordinates}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Collective behavior in the QGP}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Jets as probes of the quark gluon plasma}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Measuring suppression of high-pT particles and jets}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Jet fragmentation function and jet shape measurements}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Dijet asymmetry and momentum balance studies}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Models of jet energy loss in the quark gluon plasma}{}% 13
+\BOOKMARK [2][-]{subsection.4.1}{Survey of theoretical models of jet quenching mechanisms}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.2}{Quenching model comparisons to high-pT jet observables}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.3}{Theoretical motivations for detailed jet-track correlation studies}{section.4}% 16
+\BOOKMARK [1][-]{section.5}{The Large Hadron Collider and the CMS detector}{}% 17
+\BOOKMARK [2][-]{subsection.5.1}{The Large Hadron Collider}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.2}{The CMS detector}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.3}{Trackers in the CMS detector}{section.5}% 20
+\BOOKMARK [2][-]{subsection.5.4}{Calorimeters in the CMS detector}{section.5}% 21
+\BOOKMARK [2][-]{subsection.5.5}{The CMS trigger system}{section.5}% 22
+\BOOKMARK [1][-]{section.6}{Track reconstruction and correction}{}% 23
+\BOOKMARK [2][-]{subsection.6.1}{Track reconstruction in pp collisions}{section.6}% 24
+\BOOKMARK [2][-]{subsection.6.2}{Track reconstruction in PbPb collisions}{section.6}% 25
+\BOOKMARK [2][-]{subsection.6.3}{High purity tracks}{section.6}% 26
+\BOOKMARK [2][-]{subsection.6.4}{Tracking efficiency and fake rate evaluation and correction}{section.6}% 27
+\BOOKMARK [1][-]{section.7}{Jet reconstruction and correction}{}% 28
+\BOOKMARK [2][-]{subsection.7.1}{Jet reconstruction with the anti-kt algorithm}{section.7}% 29
+\BOOKMARK [2][-]{subsection.7.2}{Underlying event subtraction in PbPb data}{section.7}% 30
+\BOOKMARK [2][-]{subsection.7.3}{Jet energy corrections}{section.7}% 31
+\BOOKMARK [1][-]{section.8}{Data and Monte Carlo samples}{}% 32
+\BOOKMARK [2][-]{subsection.8.1}{Data samples and event selection}{section.8}% 33
+\BOOKMARK [2][-]{subsection.8.2}{Collision centrality determination and classes}{section.8}% 34
+\BOOKMARK [2][-]{subsection.8.3}{Monte Carlo simulation}{section.8}% 35
+\BOOKMARK [2][-]{subsection.8.4}{Jet selection and dijet asymmetry classes}{section.8}% 36
+\BOOKMARK [2][-]{subsection.8.5}{Track selection and classes}{section.8}% 37
+\BOOKMARK [2][-]{subsection.8.6}{Summary of analysis bins}{section.8}% 38
+\BOOKMARK [1][-]{section.9}{Jet-track correlation measurements}{}% 39
+\BOOKMARK [2][-]{subsection.9.1}{Analysis procedure}{section.9}% 40
+\BOOKMARK [2][-]{subsection.9.2}{Jet-track correlation pair-acceptance correction}{section.9}% 41
+\BOOKMARK [2][-]{subsection.9.3}{Separation of correlations into long range and short-range components}{section.9}% 42
+\BOOKMARK [2][-]{subsection.9.4}{Residual Jet Fragmentation Function correction}{section.9}% 43
+\BOOKMARK [2][-]{subsection.9.5}{Background fluctuation bias correction}{section.9}% 44
+\BOOKMARK [2][-]{subsection.9.6}{Evaluation of systematic uncertainties}{section.9}% 45
+\BOOKMARK [1][-]{section.10}{Discussion of results}{}% 46
+\BOOKMARK [2][-]{subsection.10.1}{Inclusive jet particle density correlation results}{section.10}% 47
+\BOOKMARK [2][-]{subsection.10.2}{Dijet correlation results at 2.76 TeV}{section.10}% 48
+\BOOKMARK [2][-]{subsection.10.3}{Jet shapes at 2.76 TeV and 5.02 TeV}{section.10}% 49
+\BOOKMARK [2][-]{subsection.10.4}{Decomposition of hemisphere momentum balance in dijet events at 2.76 TeV}{section.10}% 50
+\BOOKMARK [2][-]{subsection.10.5}{Theory implications of these results}{section.10}% 51
+\BOOKMARK [1][-]{section.11}{Conclusion}{}% 52
+\BOOKMARK [1][-]{section.11}{References}{}% 53
+\BOOKMARK [1][-]{section.11}{Appendices}{}% 54
+\BOOKMARK [2][-]{subsection.Alph0.1}{Jet kinematics}{section.11}% 55
+\BOOKMARK [2][-]{subsection.Alph0.2}{Background fitting details}{section.11}% 56
+\BOOKMARK [2][-]{subsection.Alph0.3}{Pair acceptance and event decomposition systematic uncertainties}{section.11}% 57
+\BOOKMARK [2][-]{subsection.Alph0.4}{Correlation widths and related uncertainty}{section.11}% 58
+\BOOKMARK [1][-]{figure.caption.122}{Vita}{}% 59

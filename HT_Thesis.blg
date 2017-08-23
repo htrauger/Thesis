@@ -5,46 +5,51 @@ The style file: unsrt.bst
 Database file #1: HT_Thesis.bib
 Warning--empty journal in Bethke:2012jm
 Warning--empty journal in Heinz:2000bk
+Warning--empty journal in dEnterria:2003xac
+Warning--empty journal in Voloshin:2008dg
+Warning--empty journal in Cao:2017hhk
+Warning--empty publisher in Gubser:2009sn
+Warning--empty journal in CasalderreySolana:2011us
 Warning--empty note in AN-15-187
-You've used 45 entries,
+You've used 70 entries,
             1791 wiz_defined-function locations,
-            718 strings with 10428 characters,
-and the built_in function-call counts, 8518 in all, are:
-= -- 749
-> -- 331
-< -- 0
-+ -- 129
-- -- 84
-* -- 499
-:= -- 1458
-add.period$ -- 136
-call.type$ -- 45
-change.case$ -- 45
+            868 strings with 14767 characters,
+and the built_in function-call counts, 13745 in all, are:
+= -- 1186
+> -- 573
+< -- 3
++ -- 219
+- -- 149
+* -- 850
+:= -- 2331
+add.period$ -- 212
+call.type$ -- 70
+change.case$ -- 69
 chr.to.int$ -- 0
-cite$ -- 48
-duplicate$ -- 391
-empty$ -- 875
-format.name$ -- 84
-if$ -- 1871
+cite$ -- 78
+duplicate$ -- 625
+empty$ -- 1396
+format.name$ -- 149
+if$ -- 3024
 int.to.chr$ -- 0
-int.to.str$ -- 45
-missing$ -- 43
-newline$ -- 229
-num.names$ -- 45
-pop$ -- 53
+int.to.str$ -- 70
+missing$ -- 69
+newline$ -- 354
+num.names$ -- 72
+pop$ -- 105
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 161
+skip$ -- 252
 stack$ -- 0
-substring$ -- 529
-swap$ -- 41
-text.length$ -- 0
+substring$ -- 844
+swap$ -- 70
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 3
-while$ -- 85
-width$ -- 47
-write$ -- 491
-(There were 3 warnings)
+warning$ -- 8
+while$ -- 132
+width$ -- 72
+write$ -- 759
+(There were 8 warnings)

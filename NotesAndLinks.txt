@@ -15,12 +15,20 @@ Committee:
 -- Zhenyu -- Yes -- 
 -- Dave -- Yes -- 
 -- Stephanov -- yes -- 
--- Julia Velksovska
+-- Julia Velksovska -- yes --
 
 
 FALL DATES: 
-September 15, F  Last day to file for graduation this term.
+September 15, F  Last day to file for graduation this term. -- DONE
 November 10, F  Last day to submit defended and approved thesis/dissertation to Graduate College for graduation this term.
 December 10, Sa Semester Ends / Summer 2017 and Fall 2017 Commencement ceremonies
 
 
+DIAGRAMS TO MAKE: 
+--QCD Phase diagram
+-- QCD Factorization
+-- Asymmetric dijets
+-- Glauber model
+Initial anisotropy for flow
+Collisional jet energy loss
+Radiative energy loss

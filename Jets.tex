@@ -53,6 +53,7 @@ For 2.76 TeV PbPb data a different algorithm, designed to eliminate the threshol
 \noindent After Voronoi subtraction and equalization, the anti-$k_{t}$ algorithm is employed with radius parameter $R = 0.3$ to cluster (``akVs3Calo") jets.
 
 \subsection{Jet energy corrections}
+\label{sec:JEC}
 
 Jet reconstruction as described above gives spatial coordinates and $p_{\rm T}$ for each jet as measured by the detector.  Our goal in jet studies, however, is to reconstruct the true total parton or particle energy.  This is achieved through jet energy corrections (JEC) that establish a mapping between measured energy (which does not, for example, include neutrinos produced in jet fragmentation) and ``true'' jet energies.  This mapping is complicated by nonlinearity in detector response.  Initial corrections are derived as a function of $p_{\rm T}$ and $\eta$ using dijet QCD samples of {\sc pythia} and {\sc pythia+hydjet} Monte Carlo, spatially matching reconstructed jets to generated particles, and comparing generated versus reconstructed jet energy for these matched jets.  These ``MC truth'' corrections are applied to measured jet energies to return a collection of jets that, on average, capture the kinematic distribution of the partons before fragmentation.
 

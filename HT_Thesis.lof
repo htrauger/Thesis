@@ -1,91 +1,114 @@
 \contentsline {figure}{\numberline {1}{\ignorespaces QCD coupling constant $\alpha _{s}$}}{3}{figure.caption.2}
-\contentsline {figure}{\numberline {2}{\ignorespaces Charged particle $R_{AA}$ at 200 GeV and 2.76 TeV}}{7}{figure.caption.3}
-\contentsline {figure}{\numberline {3}{\ignorespaces Charged particle $R_{AA}$ at 2.76 and 5.02 TeV}}{8}{figure.caption.4}
-\contentsline {figure}{\numberline {4}{\ignorespaces Jet $R_{AA}$ at 2.76 TeV}}{9}{figure.caption.5}
-\contentsline {figure}{\numberline {5}{\ignorespaces Jet fragmentation function in 2.76 TeV PbPb and pp data}}{10}{figure.caption.6}
-\contentsline {figure}{\numberline {6}{\ignorespaces Jet shape measurement in 2.76 TeV PbPb and pp data}}{11}{figure.caption.7}
-\contentsline {figure}{\numberline {7}{\ignorespaces Dijet asymmetry and in 2.76 TeV PbPb and pp data}}{13}{figure.caption.8}
-\contentsline {figure}{\numberline {8}{\ignorespaces Hemisphere $p_{\rm T}$ momentum balance in dijet events as a function of $A_{\rm J}$}}{14}{figure.caption.9}
-\contentsline {figure}{\numberline {10}{\ignorespaces Model comparisons to charged particle $R_{AA}$ at 5.02 TeV}}{17}{figure.caption.11}
-\contentsline {figure}{\numberline {11}{\ignorespaces CMS detector perspective drawing}}{21}{figure.caption.12}
-\contentsline {figure}{\numberline {12}{\ignorespaces Diagram of CMS trackers}}{22}{figure.caption.13}
-\contentsline {figure}{\numberline {13}{\ignorespaces Diagram of the HCAL}}{23}{figure.caption.14}
-\contentsline {figure}{\numberline {14}{\ignorespaces Tracking efficiency correction example}}{29}{figure.caption.15}
-\contentsline {figure}{\numberline {15}{\ignorespaces Closure with and without JFF-JEC for quark and gluon jets.\relax }}{34}{figure.caption.16}
-\contentsline {figure}{\numberline {16}{\ignorespaces Centrality distribution for {\sc pythia+hydjet} reweighted to match centrality distribution of PbPb data. \relax }}{38}{figure.caption.18}
-\contentsline {figure}{\numberline {17}{\ignorespaces Vertex z distribution for {\sc pythia+hydjet} reweighted to match centrality distribution of PbPb data. \relax }}{38}{figure.caption.19}
-\contentsline {figure}{\numberline {18}{\ignorespaces Vertex z distribution for {\sc pythia} reweighted to match centrality distribution of pp data. \relax }}{39}{figure.caption.20}
-\contentsline {figure}{\numberline {19}{\ignorespaces Illustration of the pair-acceptance correction procedure}}{46}{figure.caption.24}
-\contentsline {figure}{\numberline {20}{\ignorespaces Illustration of the event decomposition procedure without $\Delta \phi $ fitting}}{46}{figure.caption.25}
-\contentsline {figure}{\numberline {21}{\ignorespaces Illustration of the event decomposition procedure with $\Delta \phi $ fitting}}{47}{figure.caption.26}
-\contentsline {figure}{\numberline {22}{\ignorespaces Jet fragmentation function bias corrections for particles with $1<p_{\rm T}^{\rm trk}<2$ GeV}}{50}{figure.caption.27}
-\contentsline {figure}{\numberline {23}{\ignorespaces Jet fragmentation function bias corrections for particles with $2<p_{\rm T}^{\rm trk}<3$ GeV}}{50}{figure.caption.28}
-\contentsline {figure}{\numberline {24}{\ignorespaces Jet fragmentation function bias corrections for particles with $3<p_{\rm T}^{\rm trk}<4$ GeV}}{51}{figure.caption.29}
-\contentsline {figure}{\numberline {25}{\ignorespaces Jet fragmentation function bias corrections for particles with $4<p_{\rm T}^{\rm trk}<8$ GeV}}{51}{figure.caption.30}
-\contentsline {figure}{\numberline {26}{\ignorespaces Integrated yield attributed to jet fragmentation function bias as a function of $p_{\rm T}^{\rm trk}$}}{52}{figure.caption.31}
-\contentsline {figure}{\numberline {27}{\ignorespaces Integrated yield attributed to jet fragmentation function bias as a function of centrality}}{52}{figure.caption.32}
-\contentsline {figure}{\numberline {28}{\ignorespaces Background fluctuation bias corrections for particles with $1<p_{\rm T}^{\rm trk}<2$ GeV}}{54}{figure.caption.33}
-\contentsline {figure}{\numberline {29}{\ignorespaces Background fluctuation bias corrections for particles with $2<p_{\rm T}^{\rm trk}<3$ GeV}}{54}{figure.caption.34}
-\contentsline {figure}{\numberline {30}{\ignorespaces Background fluctuation bias corrections for particles with $3<p_{\rm T}^{\rm trk}<4$ GeV}}{55}{figure.caption.35}
-\contentsline {figure}{\numberline {31}{\ignorespaces Background fluctuation bias corrections for particles with $4<p_{\rm T}^{\rm trk}<8$ GeV}}{55}{figure.caption.36}
-\contentsline {figure}{\numberline {32}{\ignorespaces Integrated yield attributed to background fluctuation bias as a function of $p_{\rm T}^{\rm trk}$}}{56}{figure.caption.37}
-\contentsline {figure}{\numberline {33}{\ignorespaces Data-driven check of integrated yields attributed to background fluctuation bias}}{57}{figure.caption.38}
-\contentsline {figure}{\numberline {34}{\ignorespaces Data-driven check of correlated $\Delta \eta $ yields attributed to background fluctuation bias}}{58}{figure.caption.39}
-\contentsline {figure}{\numberline {35}{\ignorespaces Comparison of background selection bias effect for quark verus gluon jets}}{59}{figure.caption.40}
-\contentsline {figure}{\numberline {36}{\ignorespaces Inclusive jet $\Delta \eta $ correlations for tracks with $1 < p_{\rm T}^{\rm trk} < 2$ GeV at 2.76 TeV}}{65}{figure.caption.44}
-\contentsline {figure}{\numberline {37}{\ignorespaces Inclusive jet $\Delta \phi $ correlations for tracks with $1 < p_{\rm T}^{\rm trk} < 2$ GeV at 2.76 TeV}}{66}{figure.caption.45}
-\contentsline {figure}{\numberline {38}{\ignorespaces Inclusive jet $\Delta \eta $ correlations for tracks with $2 < p_{\rm T}^{\rm trk} < 3$ GeV at 2.76 TeV}}{67}{figure.caption.46}
-\contentsline {figure}{\numberline {39}{\ignorespaces Inclusive jet $\Delta \phi $ correlations for tracks with $2 < p_{\rm T}^{\rm trk} < 3$ GeV at 2.76 TeV}}{68}{figure.caption.47}
-\contentsline {figure}{\numberline {40}{\ignorespaces Inclusive jet $\Delta \eta $ correlations for tracks with $3 < p_{\rm T}^{\rm trk} < 4$ GeV at 2.76 TeV}}{69}{figure.caption.48}
-\contentsline {figure}{\numberline {41}{\ignorespaces Inclusive jet $\Delta \phi $ correlations for tracks with $3 < p_{\rm T}^{\rm trk} < 4$ GeV at 2.76 TeV}}{70}{figure.caption.49}
-\contentsline {figure}{\numberline {42}{\ignorespaces Inclusive jet $\Delta \eta $ correlations for tracks with $4 < p_{\rm T}^{\rm trk} < 8$ GeV at 2.76 TeV}}{71}{figure.caption.50}
-\contentsline {figure}{\numberline {43}{\ignorespaces Inclusive jet $\Delta \phi $ correlations for tracks with $4 < p_{\rm T}^{\rm trk} < 8$ GeV at 2.76 TeV}}{72}{figure.caption.51}
-\contentsline {figure}{\numberline {44}{\ignorespaces Inclusive jet $\Delta \eta $ correlations at 5.02 TeV}}{72}{figure.caption.52}
-\contentsline {figure}{\numberline {45}{\ignorespaces Inclusive jet $\Delta \phi $ correlations at 5.02 TeV}}{73}{figure.caption.53}
-\contentsline {figure}{\numberline {46}{\ignorespaces Inclusive jet distribution of charged particles as a function of $\Delta r$ at 5.02 TeV}}{73}{figure.caption.54}
-\contentsline {figure}{\numberline {47}{\ignorespaces Integrated inclusive jet charged particle yields at 2.76 and 5.02 TeV}}{74}{figure.caption.55}
-\contentsline {figure}{\numberline {48}{\ignorespaces Dijet $\Delta \eta $ correlations for tracks with $1 < p_{\rm T}^{\rm trk} < 2$ GeV at 2.76 TeV}}{76}{figure.caption.56}
-\contentsline {figure}{\numberline {49}{\ignorespaces Dijet $\Delta \phi $ correlations for tracks with $1 < p_{\rm T}^{\rm trk} < 2$ GeV at 2.76 TeV}}{77}{figure.caption.57}
-\contentsline {figure}{\numberline {50}{\ignorespaces Integrated charged particle yields for inclusive, leading, and subleading jets}}{78}{figure.caption.58}
-\contentsline {figure}{\numberline {51}{\ignorespaces Leading jet $\Delta \eta $ correlation widths as a function of $p_{\rm T}^{\rm trk}$ at 2.76 TeV}}{80}{figure.caption.59}
-\contentsline {figure}{\numberline {52}{\ignorespaces Leading jet $\Delta \phi $ correlation widths as a function of $p_{\rm T}^{\rm trk}$ at 2.76 TeV}}{81}{figure.caption.60}
-\contentsline {figure}{\numberline {53}{\ignorespaces Subleading jet $\Delta \eta $ correlation widths as a function of $p_{\rm T}^{\rm trk}$ at 2.76 TeV}}{82}{figure.caption.61}
-\contentsline {figure}{\numberline {54}{\ignorespaces Subleading jet $\Delta \phi $ correlation widths as a function of $p_{\rm T}^{\rm trk}$ at 2.76 TeV}}{83}{figure.caption.62}
-\contentsline {figure}{\numberline {55}{\ignorespaces Inclusive jet shape at 5.02 TeV, shown differentially in $p_{\rm T}^{\rm trk}$}}{85}{figure.caption.63}
-\contentsline {figure}{\numberline {56}{\ignorespaces Leading jet shape at 2.76 TeV, shown differentially in $p_{\rm T}^{\rm trk}$}}{86}{figure.caption.64}
-\contentsline {figure}{\numberline {57}{\ignorespaces Subleading jet shape at 2.76 TeV, shown differentially in $p_{\rm T}^{\rm trk}$}}{87}{figure.caption.65}
-\contentsline {figure}{\numberline {58}{\ignorespaces Dijet subleading-to-leading hemisphere momentum balance for balanced dijets}}{90}{figure.caption.66}
-\contentsline {figure}{\numberline {59}{\ignorespaces Dijet subleading-to-leading hemisphere momentum balance for unbalanced dijets}}{91}{figure.caption.67}
-\contentsline {figure}{\numberline {60}{\ignorespaces Jet peak subleading-to-leading momentum balance for balanced dijets}}{92}{figure.caption.68}
-\contentsline {figure}{\numberline {61}{\ignorespaces Jet peak subleading-to-leading momentum balance for unbalanced dijets}}{93}{figure.caption.69}
-\contentsline {figure}{\numberline {62}{\ignorespaces long-range subleading-to-leading momentum balance for balanced dijets}}{95}{figure.caption.70}
-\contentsline {figure}{\numberline {63}{\ignorespaces long-range subleading-to-leading momentum balance for unbalanced dijets}}{96}{figure.caption.71}
-\contentsline {figure}{\numberline {64}{\ignorespaces Integrated transverse momentum in the long-range $\Delta \phi $-correlated distribution as a function of track-$p_{\rm T}$}}{97}{figure.caption.72}
-\contentsline {figure}{\numberline {65}{\ignorespaces Relative contributions from jet peaks and long-range asymmetry to the double difference PbPb--pp, subleading--leading in total hemisphere transverse momentum for central collisions}}{98}{figure.caption.73}
-\contentsline {figure}{\numberline {66}{\ignorespaces Relative contributions from jet peaks and long-range asymmetry to the double difference PbPb--pp, subleading--leading in total hemisphere transverse momentum for peripheral collisions}}{99}{figure.caption.74}
-\contentsline {figure}{\numberline {67}{\ignorespaces Distribution of transverse momentum, pseudorapidity, and azimuthal distribution of all jet selections for Pythia data compared to {\sc pythia} simulation.\relax }}{106}{figure.caption.75}
-\contentsline {figure}{\numberline {68}{\ignorespaces Transverse momentum distribution of all jet selections for PbPb data at 2.76 TeV compared to {\sc pythia+hydjet} simulation.\relax }}{107}{figure.caption.76}
-\contentsline {figure}{\numberline {69}{\ignorespaces Pseudorapidity distribution of all jet selections for PbPb data at 2.76 TeV compared to {\sc pythia+hydjet} simulation.\relax }}{108}{figure.caption.77}
-\contentsline {figure}{\numberline {70}{\ignorespaces Azimuthal angle distribution of all jet selections for PbPb data at 2.76 TeV compared to {\sc pythia+hydjet} simulation for each collision centrality bin.\relax }}{109}{figure.caption.78}
-\contentsline {figure}{\numberline {71}{\ignorespaces Distribution of pseudorapidity distribution of all jet selections for PbPb data compared to {\sc pythia+hydjet} simulation for each collision centrality bin.\relax }}{110}{figure.caption.79}
-\contentsline {figure}{\numberline {72}{\ignorespaces Transverse momentum distribution for PbPb data compared to {\sc pythia+hydjet} simulation for each collision centrality bin.\relax }}{110}{figure.caption.80}
-\contentsline {figure}{\numberline {73}{\ignorespaces Jet $\eta $ distribution for PbPb data compared to {\sc pythia+hydjet} simulation for each collision centrality bin.\relax }}{110}{figure.caption.81}
-\contentsline {figure}{\numberline {74}{\ignorespaces Jet $\phi $ distribution for PbPb data compared to {\sc pythia+hydjet} simulation for each collision centrality bin.\relax }}{111}{figure.caption.82}
-\contentsline {figure}{\numberline {75}{\ignorespaces Jet $p_{\rm T}$, $\eta $, and $\phi $ for all pp dijets and for pp dijets with $A_{\rm J}$: $0<A_{\rm J}<0.11$. \relax }}{112}{figure.caption.83}
-\contentsline {figure}{\numberline {76}{\ignorespaces Jet $p_{\rm T}$, $\eta $, and $\phi $ for all pp dijets and for pp dijets with $A_{\rm J}$: $0.11<A_{\rm J}<0.22$. \relax }}{113}{figure.caption.84}
-\contentsline {figure}{\numberline {77}{\ignorespaces Jet $p_{\rm T}$, $\eta $, and $\phi $ for all pp dijets and for pp dijets with $A_{\rm J}$: $0.22<A_{\rm J}<0.33$. \relax }}{114}{figure.caption.85}
-\contentsline {figure}{\numberline {78}{\ignorespaces Jet $p_{\rm T}$, $\eta $, and $\phi $ for all pp dijets and for pp dijets with $A_{\rm J}$: $A_{\rm J}>0.33$. \relax }}{115}{figure.caption.86}
-\contentsline {figure}{\numberline {79}{\ignorespaces Jet $p_{\rm T}$, $\eta $, and $\phi $ for all PbPb dijets and for PbPb dijets with $0<A_{\rm J}<0.11$. \relax }}{116}{figure.caption.87}
-\contentsline {figure}{\numberline {80}{\ignorespaces Jet $p_{\rm T}$, $\eta $, and $\phi $ for all PbPb dijets and for PbPb dijets with $0.11<A_{\rm J}<0.22$. \relax }}{117}{figure.caption.88}
-\contentsline {figure}{\numberline {81}{\ignorespaces Jet $p_{\rm T}$, $\eta $, and $\phi $ for all PbPb dijets and for PbPb dijets with $0.22<A_{\rm J}<0.33$. \relax }}{118}{figure.caption.89}
-\contentsline {figure}{\numberline {82}{\ignorespaces Jet $p_{\rm T}$, $\eta $, and $\phi $ for all PbPb dijets and for PbPb dijets with $A_{\rm J}>0.33$. \relax }}{119}{figure.caption.90}
-\contentsline {figure}{\numberline {83}{\ignorespaces Dijet background fits (preliminary step)}}{120}{figure.caption.91}
-\contentsline {figure}{\numberline {84}{\ignorespaces Leading jet background fits}}{121}{figure.caption.92}
-\contentsline {figure}{\numberline {85}{\ignorespaces Subleading jet background fits}}{122}{figure.caption.93}
-\contentsline {figure}{\numberline {86}{\ignorespaces Inclusive jet background fits}}{123}{figure.caption.94}
-\contentsline {figure}{\numberline {87}{\ignorespaces Pair acceptance uncertainty determination}}{124}{figure.caption.95}
-\contentsline {figure}{\numberline {88}{\ignorespaces Background subtraction uncertainty determination}}{125}{figure.caption.96}
-\contentsline {figure}{\numberline {89}{\ignorespaces Width determination for PbPb leading jets}}{126}{figure.caption.97}
-\contentsline {figure}{\numberline {90}{\ignorespaces Width determination for pp leading jets}}{127}{figure.caption.98}
-\contentsline {figure}{\numberline {91}{\ignorespaces Width determination for PbPb subleading jets}}{128}{figure.caption.99}
-\contentsline {figure}{\numberline {92}{\ignorespaces Width determination for pp subleading jets}}{129}{figure.caption.100}
+\contentsline {figure}{\numberline {2}{\ignorespaces QCD phase diagram}}{6}{figure.caption.3}
+\contentsline {figure}{\numberline {3}{\ignorespaces Glauber model illustration}}{8}{figure.caption.4}
+\contentsline {figure}{\numberline {4}{\ignorespaces Dihadron correlation in $\Delta \eta -\Delta \phi $}}{11}{figure.caption.5}
+\contentsline {figure}{\numberline {5}{\ignorespaces Fits to dihadron $\Delta \phi $ distributions to extract flow coefficients}}{12}{figure.caption.6}
+\contentsline {figure}{\numberline {6}{\ignorespaces Flow coefficients $v_{2}$ and $v_{3}$ by centrality and $p_{\rm T}$}}{12}{figure.caption.7}
+\contentsline {figure}{\numberline {7}{\ignorespaces Illustration of QCD cross section factorization}}{14}{figure.caption.8}
+\contentsline {figure}{\numberline {8}{\ignorespaces Charged particle $R_{AA}$ at 200 GeV and 2.76 TeV}}{16}{figure.caption.9}
+\contentsline {figure}{\numberline {9}{\ignorespaces Charged particle $R_{AA}$ at 2.76 and 5.02 TeV}}{16}{figure.caption.10}
+\contentsline {figure}{\numberline {10}{\ignorespaces Jet $R_{AA}$ at 2.76 TeV}}{17}{figure.caption.11}
+\contentsline {figure}{\numberline {11}{\ignorespaces Jet fragmentation function in 2.76 TeV PbPb and pp data}}{18}{figure.caption.12}
+\contentsline {figure}{\numberline {12}{\ignorespaces Jet shape measurement in 2.76 TeV PbPb and pp data}}{19}{figure.caption.13}
+\contentsline {figure}{\numberline {13}{\ignorespaces Illustration of dijet asymmetry}}{20}{figure.caption.14}
+\contentsline {figure}{\numberline {14}{\ignorespaces Dijet asymmetry and in 2.76 TeV PbPb and pp data}}{21}{figure.caption.15}
+\contentsline {figure}{\numberline {15}{\ignorespaces Hemisphere momentum balance in dijet events as a function of $A_{\rm J}$}}{22}{figure.caption.16}
+\contentsline {figure}{\numberline {16}{\ignorespaces Radial distribution of hemisphere momentum balance as a function of $\Delta r$ for unbalanced dijets}}{23}{figure.caption.17}
+\contentsline {figure}{\numberline {17}{\ignorespaces Temperature dependence of $\mathaccent "705E\relax {q}$ from different quenching models}}{25}{figure.caption.18}
+\contentsline {figure}{\numberline {18}{\ignorespaces Model comparisons to charged particle $R_{AA}$ at 5.02 TeV}}{28}{figure.caption.19}
+\contentsline {figure}{\numberline {19}{\ignorespaces Simulated dependence of jet $R_{AA}$ on $R$ at 2.76 TeV from {\sc Jewel}}}{29}{figure.caption.20}
+\contentsline {figure}{\numberline {20}{\ignorespaces Simulated dependence of jet $R_{AA}$ on $R$ at 2.76 TeV with the coupled jet-fluid model}}{30}{figure.caption.21}
+\contentsline {figure}{\numberline {21}{\ignorespaces Predicted jet $R_{AA}$ as a function of $p_{\rm T}$ at 2.76 TeV from $\rm SCET_{G}$}}{30}{figure.caption.22}
+\contentsline {figure}{\numberline {22}{\ignorespaces Calculated jet $R_{AA}$ as a function of $p_{\rm T}$ at 2.76 TeV from the hybrid model }}{31}{figure.caption.23}
+\contentsline {figure}{\numberline {23}{\ignorespaces Simulated jet shape ratio $\rho (\Delta r)_{\rm PbPb}/\rho (\Delta r)_{\rm pp}$ at 2.76 TeV from {\sc Jewel}}}{32}{figure.caption.24}
+\contentsline {figure}{\numberline {24}{\ignorespaces Calculated jet shapes in PbPb and pp and their ratio at 2.76 TeV from the coupled jet-fluid model}}{33}{figure.caption.25}
+\contentsline {figure}{\numberline {25}{\ignorespaces Calculated jet shapes in PbPb and pp at 2.76 TeV from the coupled jet-fluid model, extended to $\Delta r = 1$}}{33}{figure.caption.26}
+\contentsline {figure}{\numberline {26}{\ignorespaces Calculated jet shape ratio $\rho (\Delta r)_{\rm PbPb}/\rho (\Delta r)_{\rm pp}$ at 2.76 TeV with $\rm SCET_{G}$}}{34}{figure.caption.27}
+\contentsline {figure}{\numberline {27}{\ignorespaces Calculated jet shape ratio $\rho (\Delta r)_{\rm PbPb}/\rho (\Delta r)_{\rm pp}$ at 2.76 TeV from the hybrid model for a range of values of broadening parameter $K$}}{34}{figure.caption.28}
+\contentsline {figure}{\numberline {28}{\ignorespaces Calculated jet shape ratio $\rho (\Delta r)_{\rm PbPb}/\rho (\Delta r)_{\rm pp}$ at 2.76 TeV from the hybrid model with and without the medium backreaction}}{35}{figure.caption.29}
+\contentsline {figure}{\numberline {29}{\ignorespaces Simulated JFF ratio PbPb/pp at 2.76 TeV from {\sc Jewel}}}{36}{figure.caption.30}
+\contentsline {figure}{\numberline {30}{\ignorespaces Calculated JFF ratio PbPb/pp at 2.76 TeV from the hybrid model}}{37}{figure.caption.31}
+\contentsline {figure}{\numberline {31}{\ignorespaces Simulated dijet asymmetry parameter $A_{\rm J}$ in pp and PbPb at 2.76 TeV from {\sc Jewel}}}{37}{figure.caption.32}
+\contentsline {figure}{\numberline {32}{\ignorespaces Missing-$p_{\rm T}$ as a function of $A_{\rm J}$ hybrid model}}{39}{figure.caption.33}
+\contentsline {figure}{\numberline {33}{\ignorespaces CMS detector perspective drawing}}{42}{figure.caption.34}
+\contentsline {figure}{\numberline {34}{\ignorespaces Diagram of CMS trackers}}{43}{figure.caption.35}
+\contentsline {figure}{\numberline {35}{\ignorespaces Diagram of the HCAL}}{44}{figure.caption.36}
+\contentsline {figure}{\numberline {36}{\ignorespaces Tracking efficiency correction example}}{50}{figure.caption.37}
+\contentsline {figure}{\numberline {37}{\ignorespaces Closure with and without JFF-JEC for quark and gluon jets.\relax }}{55}{figure.caption.38}
+\contentsline {figure}{\numberline {38}{\ignorespaces Centrality distribution for {\sc pythia+hydjet} reweighted to the distribution of PbPb data. \relax }}{59}{figure.caption.40}
+\contentsline {figure}{\numberline {39}{\ignorespaces Vertex z distribution for {\sc pythia+hydjet} reweighted to the distribution of PbPb data. \relax }}{59}{figure.caption.41}
+\contentsline {figure}{\numberline {40}{\ignorespaces Vertex z distribution for {\sc pythia} reweighted to the distribution of pp data. \relax }}{60}{figure.caption.42}
+\contentsline {figure}{\numberline {41}{\ignorespaces Illustration of the pair-acceptance correction procedure}}{67}{figure.caption.46}
+\contentsline {figure}{\numberline {42}{\ignorespaces Illustration of the event decomposition procedure without $\Delta \phi $ fitting}}{68}{figure.caption.47}
+\contentsline {figure}{\numberline {43}{\ignorespaces Illustration of the event decomposition procedure with $\Delta \phi $ fitting}}{69}{figure.caption.48}
+\contentsline {figure}{\numberline {44}{\ignorespaces Jet fragmentation function bias corrections for particles with $1<p_{\rm T}^{\rm trk}<2$ GeV}}{71}{figure.caption.49}
+\contentsline {figure}{\numberline {45}{\ignorespaces Jet fragmentation function bias corrections for particles with $2<p_{\rm T}^{\rm trk}<3$ GeV}}{71}{figure.caption.50}
+\contentsline {figure}{\numberline {46}{\ignorespaces Jet fragmentation function bias corrections for particles with $3<p_{\rm T}^{\rm trk}<4$ GeV}}{72}{figure.caption.51}
+\contentsline {figure}{\numberline {47}{\ignorespaces Jet fragmentation function bias corrections for particles with $4<p_{\rm T}^{\rm trk}<8$ GeV}}{72}{figure.caption.52}
+\contentsline {figure}{\numberline {48}{\ignorespaces Integrated yield attributed to jet fragmentation function bias as a function of $p_{\rm T}^{\rm trk}$}}{73}{figure.caption.53}
+\contentsline {figure}{\numberline {49}{\ignorespaces Integrated yield attributed to jet fragmentation function bias as a function of centrality}}{73}{figure.caption.54}
+\contentsline {figure}{\numberline {50}{\ignorespaces Background fluctuation bias corrections for particles with $1<p_{\rm T}^{\rm trk}<2$ GeV}}{75}{figure.caption.55}
+\contentsline {figure}{\numberline {51}{\ignorespaces Background fluctuation bias corrections for particles with $2<p_{\rm T}^{\rm trk}<3$ GeV}}{75}{figure.caption.56}
+\contentsline {figure}{\numberline {52}{\ignorespaces Background fluctuation bias corrections for particles with $3<p_{\rm T}^{\rm trk}<4$ GeV}}{76}{figure.caption.57}
+\contentsline {figure}{\numberline {53}{\ignorespaces Background fluctuation bias corrections for particles with $4<p_{\rm T}^{\rm trk}<8$ GeV}}{76}{figure.caption.58}
+\contentsline {figure}{\numberline {54}{\ignorespaces Integrated yield attributed to background fluctuation bias as a function of $p_{\rm T}^{\rm trk}$}}{77}{figure.caption.59}
+\contentsline {figure}{\numberline {55}{\ignorespaces Data-driven check of integrated yields attributed to background fluctuation bias}}{78}{figure.caption.60}
+\contentsline {figure}{\numberline {56}{\ignorespaces Data-driven check of correlated $\Delta \eta $ yields attributed to background fluctuation bias}}{79}{figure.caption.61}
+\contentsline {figure}{\numberline {57}{\ignorespaces Comparison of background selection bias effect for quark verus gluon jets}}{80}{figure.caption.62}
+\contentsline {figure}{\numberline {58}{\ignorespaces Inclusive jet $\Delta \eta $ correlations for tracks with $1 < p_{\rm T}^{\rm trk} < 2$ GeV at 2.76 TeV}}{85}{figure.caption.66}
+\contentsline {figure}{\numberline {59}{\ignorespaces Inclusive jet $\Delta \phi $ correlations for tracks with $1 < p_{\rm T}^{\rm trk} < 2$ GeV at 2.76 TeV}}{86}{figure.caption.67}
+\contentsline {figure}{\numberline {60}{\ignorespaces Inclusive jet $\Delta \eta $ correlations for tracks with $2 < p_{\rm T}^{\rm trk} < 3$ GeV at 2.76 TeV}}{87}{figure.caption.68}
+\contentsline {figure}{\numberline {61}{\ignorespaces Inclusive jet $\Delta \phi $ correlations for tracks with $2 < p_{\rm T}^{\rm trk} < 3$ GeV at 2.76 TeV}}{88}{figure.caption.69}
+\contentsline {figure}{\numberline {62}{\ignorespaces Inclusive jet $\Delta \eta $ correlations for tracks with $3 < p_{\rm T}^{\rm trk} < 4$ GeV at 2.76 TeV}}{89}{figure.caption.70}
+\contentsline {figure}{\numberline {63}{\ignorespaces Inclusive jet $\Delta \phi $ correlations for tracks with $3 < p_{\rm T}^{\rm trk} < 4$ GeV at 2.76 TeV}}{90}{figure.caption.71}
+\contentsline {figure}{\numberline {64}{\ignorespaces Inclusive jet $\Delta \eta $ correlations for tracks with $4 < p_{\rm T}^{\rm trk} < 8$ GeV at 2.76 TeV}}{91}{figure.caption.72}
+\contentsline {figure}{\numberline {65}{\ignorespaces Inclusive jet $\Delta \phi $ correlations for tracks with $4 < p_{\rm T}^{\rm trk} < 8$ GeV at 2.76 TeV}}{92}{figure.caption.73}
+\contentsline {figure}{\numberline {66}{\ignorespaces Inclusive jet $\Delta \eta $ correlations at 5.02 TeV}}{92}{figure.caption.74}
+\contentsline {figure}{\numberline {67}{\ignorespaces Inclusive jet $\Delta \phi $ correlations at 5.02 TeV}}{93}{figure.caption.75}
+\contentsline {figure}{\numberline {68}{\ignorespaces Inclusive jet distribution of charged particles as a function of $\Delta r$ at 5.02 TeV}}{93}{figure.caption.76}
+\contentsline {figure}{\numberline {69}{\ignorespaces Integrated inclusive jet charged particle yields at 2.76 and 5.02 TeV}}{94}{figure.caption.77}
+\contentsline {figure}{\numberline {70}{\ignorespaces Dijet $\Delta \eta $ correlations for tracks with $1 < p_{\rm T}^{\rm trk} < 2$ GeV at 2.76 TeV}}{96}{figure.caption.78}
+\contentsline {figure}{\numberline {71}{\ignorespaces Dijet $\Delta \phi $ correlations for tracks with $1 < p_{\rm T}^{\rm trk} < 2$ GeV at 2.76 TeV}}{97}{figure.caption.79}
+\contentsline {figure}{\numberline {72}{\ignorespaces Integrated charged particle yields for inclusive, leading, and subleading jets}}{98}{figure.caption.80}
+\contentsline {figure}{\numberline {73}{\ignorespaces Leading jet $\Delta \eta $ correlation widths as a function of $p_{\rm T}^{\rm trk}$ at 2.76 TeV}}{100}{figure.caption.81}
+\contentsline {figure}{\numberline {74}{\ignorespaces Leading jet $\Delta \phi $ correlation widths as a function of $p_{\rm T}^{\rm trk}$ at 2.76 TeV}}{101}{figure.caption.82}
+\contentsline {figure}{\numberline {75}{\ignorespaces Subleading jet $\Delta \eta $ correlation widths as a function of $p_{\rm T}^{\rm trk}$ at 2.76 TeV}}{102}{figure.caption.83}
+\contentsline {figure}{\numberline {76}{\ignorespaces Subleading jet $\Delta \phi $ correlation widths as a function of $p_{\rm T}^{\rm trk}$ at 2.76 TeV}}{103}{figure.caption.84}
+\contentsline {figure}{\numberline {77}{\ignorespaces Inclusive jet shape at 5.02 TeV, shown differentially in $p_{\rm T}^{\rm trk}$}}{105}{figure.caption.85}
+\contentsline {figure}{\numberline {78}{\ignorespaces Leading jet shape at 2.76 TeV, shown differentially in $p_{\rm T}^{\rm trk}$}}{106}{figure.caption.86}
+\contentsline {figure}{\numberline {79}{\ignorespaces Subleading jet shape at 2.76 TeV, shown differentially in $p_{\rm T}^{\rm trk}$}}{107}{figure.caption.87}
+\contentsline {figure}{\numberline {80}{\ignorespaces Dijet subleading-to-leading hemisphere momentum balance for balanced dijets}}{110}{figure.caption.88}
+\contentsline {figure}{\numberline {81}{\ignorespaces Dijet subleading-to-leading hemisphere momentum balance for unbalanced dijets}}{111}{figure.caption.89}
+\contentsline {figure}{\numberline {82}{\ignorespaces Jet peak subleading-to-leading momentum balance for balanced dijets}}{112}{figure.caption.90}
+\contentsline {figure}{\numberline {83}{\ignorespaces Jet peak subleading-to-leading momentum balance for unbalanced dijets}}{113}{figure.caption.91}
+\contentsline {figure}{\numberline {84}{\ignorespaces long-range subleading-to-leading momentum balance for balanced dijets}}{115}{figure.caption.92}
+\contentsline {figure}{\numberline {85}{\ignorespaces long-range subleading-to-leading momentum balance for unbalanced dijets}}{116}{figure.caption.93}
+\contentsline {figure}{\numberline {86}{\ignorespaces Integrated transverse momentum in the long-range $\Delta \phi $-correlated distribution as a function of track-$p_{\rm T}$}}{117}{figure.caption.94}
+\contentsline {figure}{\numberline {87}{\ignorespaces Relative contributions from jet peaks and long-range asymmetry to the double difference PbPb--pp, subleading--leading in total hemisphere transverse momentum for central collisions}}{118}{figure.caption.95}
+\contentsline {figure}{\numberline {88}{\ignorespaces Relative contributions from jet peaks and long-range asymmetry to the double difference PbPb--pp, subleading--leading in total hemisphere transverse momentum for peripheral collisions}}{119}{figure.caption.96}
+\contentsline {figure}{\numberline {89}{\ignorespaces Distribution of transverse momentum, pseudorapidity, and azimuthal distribution of all jet selections for Pythia data compared to {\sc pythia} simulation.\relax }}{128}{figure.caption.97}
+\contentsline {figure}{\numberline {90}{\ignorespaces Transverse momentum distribution of all jet selections for PbPb data at 2.76 TeV compared to {\sc pythia+hydjet} simulation.\relax }}{129}{figure.caption.98}
+\contentsline {figure}{\numberline {91}{\ignorespaces Pseudorapidity distribution of all jet selections for PbPb data at 2.76 TeV compared to {\sc pythia+hydjet} simulation.\relax }}{130}{figure.caption.99}
+\contentsline {figure}{\numberline {92}{\ignorespaces Azimuthal angle distribution of all jet selections for PbPb data at 2.76 TeV compared to {\sc pythia+hydjet} simulation for each collision centrality bin.\relax }}{131}{figure.caption.100}
+\contentsline {figure}{\numberline {93}{\ignorespaces Distribution of pseudorapidity distribution of all jet selections for PbPb data compared to {\sc pythia+hydjet} simulation for each collision centrality bin.\relax }}{132}{figure.caption.101}
+\contentsline {figure}{\numberline {94}{\ignorespaces Transverse momentum distribution for PbPb data compared to {\sc pythia+hydjet} simulation for each collision centrality bin.\relax }}{132}{figure.caption.102}
+\contentsline {figure}{\numberline {95}{\ignorespaces Jet $\eta $ distribution for PbPb data compared to {\sc pythia+hydjet} simulation for each collision centrality bin.\relax }}{132}{figure.caption.103}
+\contentsline {figure}{\numberline {96}{\ignorespaces Jet $\phi $ distribution for PbPb data compared to {\sc pythia+hydjet} simulation for each collision centrality bin.\relax }}{133}{figure.caption.104}
+\contentsline {figure}{\numberline {97}{\ignorespaces Jet $p_{\rm T}$, $\eta $, and $\phi $ for all pp dijets and for pp dijets with $A_{\rm J}$: $0<A_{\rm J}<0.11$. \relax }}{134}{figure.caption.105}
+\contentsline {figure}{\numberline {98}{\ignorespaces Jet $p_{\rm T}$, $\eta $, and $\phi $ for all pp dijets and for pp dijets with $A_{\rm J}$: $0.11<A_{\rm J}<0.22$. \relax }}{135}{figure.caption.106}
+\contentsline {figure}{\numberline {99}{\ignorespaces Jet $p_{\rm T}$, $\eta $, and $\phi $ for all pp dijets and for pp dijets with $A_{\rm J}$: $0.22<A_{\rm J}<0.33$. \relax }}{136}{figure.caption.107}
+\contentsline {figure}{\numberline {100}{\ignorespaces Jet $p_{\rm T}$, $\eta $, and $\phi $ for all pp dijets and for pp dijets with $A_{\rm J}$: $A_{\rm J}>0.33$. \relax }}{137}{figure.caption.108}
+\contentsline {figure}{\numberline {101}{\ignorespaces Jet $p_{\rm T}$, $\eta $, and $\phi $ for all PbPb dijets and for PbPb dijets with $0<A_{\rm J}<0.11$. \relax }}{138}{figure.caption.109}
+\contentsline {figure}{\numberline {102}{\ignorespaces Jet $p_{\rm T}$, $\eta $, and $\phi $ for all PbPb dijets and for PbPb dijets with $0.11<A_{\rm J}<0.22$. \relax }}{139}{figure.caption.110}
+\contentsline {figure}{\numberline {103}{\ignorespaces Jet $p_{\rm T}$, $\eta $, and $\phi $ for all PbPb dijets and for PbPb dijets with $0.22<A_{\rm J}<0.33$. \relax }}{140}{figure.caption.111}
+\contentsline {figure}{\numberline {104}{\ignorespaces Jet $p_{\rm T}$, $\eta $, and $\phi $ for all PbPb dijets and for PbPb dijets with $A_{\rm J}>0.33$. \relax }}{141}{figure.caption.112}
+\contentsline {figure}{\numberline {105}{\ignorespaces Dijet background fits (preliminary step)}}{142}{figure.caption.113}
+\contentsline {figure}{\numberline {106}{\ignorespaces Leading jet background fits}}{143}{figure.caption.114}
+\contentsline {figure}{\numberline {107}{\ignorespaces Subleading jet background fits}}{144}{figure.caption.115}
+\contentsline {figure}{\numberline {108}{\ignorespaces Inclusive jet background fits}}{145}{figure.caption.116}
+\contentsline {figure}{\numberline {109}{\ignorespaces Pair acceptance uncertainty determination}}{146}{figure.caption.117}
+\contentsline {figure}{\numberline {110}{\ignorespaces Background subtraction uncertainty determination}}{147}{figure.caption.118}
+\contentsline {figure}{\numberline {111}{\ignorespaces Width determination for PbPb leading jets}}{148}{figure.caption.119}
+\contentsline {figure}{\numberline {112}{\ignorespaces Width determination for pp leading jets}}{149}{figure.caption.120}
+\contentsline {figure}{\numberline {113}{\ignorespaces Width determination for PbPb subleading jets}}{150}{figure.caption.121}
+\contentsline {figure}{\numberline {114}{\ignorespaces Width determination for pp subleading jets}}{151}{figure.caption.122}

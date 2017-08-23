@@ -52,6 +52,78 @@ John Adams et~al.
   from RHIC collisions}.
 \newblock {\em Nucl. Phys. A}, 757:102, 2005.
 
+\bibitem{Gyulassy:1985}
+Miklos Gyulassy.
+\newblock Introduction to qcd thermodynamics and the quark-gluon plasma.
+\newblock {\em Progress in Particle and Nuclear Physics}, 15:403 -- 442, 1985.
+
+\bibitem{Sarkar:2010zza}
+Sourav Sarkar, Helmut Satz, and Bikash Sinha.
+\newblock {The physics of the quark-gluon plasma}.
+\newblock {\em Lect. Notes Phys.}, 785:pp.1--369, 2010.
+
+\bibitem{Satz:2012zza}
+Helmut Satz.
+\newblock {Extreme states of matter in strong interaction physics. An
+  introduction}.
+\newblock {\em Lect. Notes Phys.}, 841:1--239, 2012.
+
+\bibitem{Stephanov:2007fk}
+M.~A. Stephanov.
+\newblock {QCD phase diagram: An Overview}.
+\newblock {\em PoS}, LAT2006:024, 2006.
+
+\bibitem{Foka2016}
+Panagiota Foka and Małgorzata~Anna Janik.
+\newblock An overview of experimental results from ultra-relativistic heavy-ion
+  collisions at the cern lhc: Bulk properties and dynamical evolution.
+\newblock {\em Reviews in Physics}, 1:154 -- 171, 2016.
+
+\bibitem{Jaiswal:2016hex}
+Amaresh Jaiswal and Victor Roy.
+\newblock {Relativistic hydrodynamics in heavy-ion collisions: general aspects
+  and recent developments}.
+\newblock {\em Adv. High Energy Phys.}, 2016:9623034, 2016.
+
+\bibitem{Heinz:2011kt}
+Ulrich Heinz, Chun Shen, and Huichao Song.
+\newblock {The viscosity of quark-gluon plasma at RHIC and the LHC}.
+\newblock {\em AIP Conf. Proc.}, 1441:766--770, 2012.
+
+\bibitem{Miller:2007ri}
+Michael~L. Miller, Klaus Reygers, Stephen~J. Sanders, and Peter Steinberg.
+\newblock {Glauber modeling in high energy nuclear collisions}.
+\newblock {\em Ann. Rev. Nucl. Part. Sci.}, 57:205, 2007.
+
+\bibitem{dEnterria:2003xac}
+David~G. d'Enterria.
+\newblock {Hard scattering cross-sections at LHC in the Glauber approach: From
+  pp to pA and AA collisions}.
+\newblock 2003.
+
+\bibitem{Majumder:2010qh}
+A.~Majumder and M.~Van~Leeuwen.
+\newblock {The Theory and Phenomenology of Perturbative QCD Based Jet
+  Quenching}.
+\newblock {\em Prog. Part. Nucl. Phys. A}, 66:41, 2011.
+
+\bibitem{Voloshin:2008dg}
+Sergei~A. Voloshin, Arthur~M. Poskanzer, and Raimond Snellings.
+\newblock {Collective phenomena in non-central nuclear collisions}.
+\newblock 2008.
+
+\bibitem{Chatrchyan:2011eka}
+Serguei Chatrchyan et~al.
+\newblock {Long-range and short-range dihadron angular correlations in central
+  PbPb collisions at a nucleon-nucleon center of mass energy of 2.76 TeV}.
+\newblock {\em JHEP}, 07:076, 2011.
+
+\bibitem{Chatrchyan:2013nka}
+Serguei Chatrchyan et~al.
+\newblock {Multiplicity and transverse momentum dependence of two- and
+  four-particle correlations in pPb and PbPb collisions}.
+\newblock {\em Phys. Lett.}, B724:213--240, 2013.
+
 \bibitem{Bjorken:1982tu}
 J.~D. Bjorken.
 \newblock Energy loss of energetic partons in {QGP}: possible extinction of
@@ -128,6 +200,89 @@ Serguei Chatrchyan et~al.
 \newblock {Observation and studies of jet quenching in PbPb collisions at
   $\sqrt{s_{\rm NN}}$ = 2.76 TeV}.
 \newblock {\em Phys. Rev. C}, 84:024906, 2011.
+
+\bibitem{HIN_2014_010}
+Vardan Khachatryan et~al.
+\newblock {Measurement of transverse momentum relative to dijet systems in PbPb
+  and pp collisions at $\sqrt{s_{\rm NN}} = 2.76$ TeV}.
+\newblock {\em JHEP}, 01:6, 2016.
+
+\bibitem{Burke:2013yra}
+Karen~M. Burke et~al.
+\newblock {Extracting the jet transport coefficient from jet quenching in
+  high-energy heavy-ion collisions}.
+\newblock {\em Phys. Rev.}, C90(1):014909, 2014.
+
+\bibitem{dEnterria:2009am}
+David d'Enterria.
+\newblock {\em Jet quenching}, volume 23: Relativistic Heavy Ion Physics of
+  {\em Springer Materials - The Landolt-B{\"or}nstein Database}, chapter 6.4.
+\newblock Springer-Verlag, 2010.
+
+\bibitem{Cao:2016gvr}
+Shanshan Cao, Tan Luo, Guang-You Qin, and Xin-Nian Wang.
+\newblock {Linearized Boltzmann transport model for jet propagation in the
+  quark-gluon plasma: Heavy quark evolution}.
+\newblock {\em Phys. Rev.}, C94(1):014909, 2016.
+
+\bibitem{Cao:2017hhk}
+Shanshan Cao, Tan Luo, Guang-You Qin, and Xin-Nian Wang.
+\newblock {Heavy and light flavor jet quenching at RHIC and LHC energies}.
+\newblock 2017.
+
+\bibitem{Chien:2014nsa}
+Yang-Ting Chien and Ivan Vitev.
+\newblock {Jet Shape Resummation Using Soft-Collinear Effective Theory}.
+\newblock {\em JHEP}, 12:061, 2014.
+
+\bibitem{Chien:2015hda}
+Yang-Ting Chien and Ivan Vitev.
+\newblock {Towards the understanding of jet shapes and cross sections in heavy
+  ion collisions using soft-collinear effective theory}.
+\newblock {\em JHEP}, 05:023, 2016.
+
+\bibitem{Rothstein:2016bsq}
+Ira~Z. Rothstein and Iain~W. Stewart.
+\newblock {An Effective Field Theory for Forward Scattering and Factorization
+  Violation}.
+\newblock {\em JHEP}, 08:025, 2016.
+
+\bibitem{Gubser:2009md}
+Steven~S. Gubser and Andreas Karch.
+\newblock {From gauge-string duality to strong interactions: A Pedestrian's
+  Guide}.
+\newblock {\em Ann. Rev. Nucl. Part. Sci.}, 59:145--168, 2009.
+
+\bibitem{Gubser:2009sn}
+Steven~S. Gubser, Silviu~S. Pufu, Fabio~D. Rocha, and Amos Yarom.
+\newblock {Energy loss in a strongly coupled thermal medium and the
+  gauge-string duality}.
+\newblock In Rudolph~C. Hwa and Xin-Nian Wang, editors, {\em Quark-gluon plasma
+  4}, pages 1--59. 2010.
+
+\bibitem{CasalderreySolana:2011us}
+Jorge Casalderrey-Solana, Hong Liu, David Mateos, Krishna Rajagopal, and
+  Urs~Achim Wiedemann.
+\newblock {Gauge/String Duality, Hot QCD and Heavy Ion Collisions}.
+\newblock 2011.
+
+\bibitem{Casalderrey-Solana:2016jvj}
+Jorge Casalderrey-Solana, Doga Gulhan, Guilherme Milhano, Daniel Pablos, and
+  Krishna Rajagopal.
+\newblock {Angular Structure of Jet Quenching Within a Hybrid Strong/Weak
+  Coupling Model}.
+\newblock {\em JHEP}, 03:135, 2017.
+
+\bibitem{Tachibana:2017syd}
+Yasuki Tachibana, Ning-Bo Chang, and Guang-You Qin.
+\newblock {Full jet in quark-gluon plasma with hydrodynamic medium response}.
+\newblock {\em Phys. Rev.}, C95(4):044909, 2017.
+
+\bibitem{Elayavalli:2017hxo}
+Raghav Kunnawalkam~Elayavalli and Korinna~Christine Zapp.
+\newblock {Medium response in JEWEL and its impact on jet shape observables in
+  heavy ion collisions}.
+\newblock {\em JHEP}, 07:141, 2017.
 
 \bibitem{Evans:2008zzb}
 Lyndon Evans and Philip Bryant.
@@ -227,12 +382,6 @@ I.~P. Lokhtin and A.~M. Snigirev.
   and high-$p_{\rm T}$ hadron spectra at RHIC}.
 \newblock {\em Eur. Phys. J. C}, 45:211, 2006.
 
-\bibitem{HIN_2014_010}
-Vardan Khachatryan et~al.
-\newblock {Measurement of transverse momentum relative to dijet systems in PbPb
-  and pp collisions at $\sqrt{s_{\rm NN}} = 2.76$ TeV}.
-\newblock {\em JHEP}, 01:6, 2016.
-
 \bibitem{v2_HIN_11_012}
 S.~Chatrchyan et~al.
 \newblock Azimuthal anisotropy of charge particles at high transvere momenta in
@@ -250,11 +399,5 @@ K.~Aamodt et~al.
 \newblock {Harmonic decomposition of two-particle angular correlations in Pb-Pb
   collisions at $\sqrt{s_{\rm NN}}=2.76$ TeV}.
 \newblock {\em Phys. Lett. B}, 708:249, 2012.
-
-\bibitem{Chatrchyan:2011eka}
-Serguei Chatrchyan et~al.
-\newblock {Long-range and short-range dihadron angular correlations in central
-  PbPb collisions at a nucleon-nucleon center of mass energy of 2.76 TeV}.
-\newblock {\em JHEP}, 07:076, 2011.
 
 \end{thebibliography}
